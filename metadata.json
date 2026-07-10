@@ -1,0 +1,8 @@
+{
+  "name": "Brahma Cabs Raipur",
+  "description": "Outstation Taxi Service in Raipur offering affordable, safe, and professional 24x7 cab services with mostly EV fleet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
