@@ -17,19 +17,27 @@ export const BUSINESS_INFO = {
 };
 
 export const EV_ROUTES = [
-  { destination: "Bilaspur", price: 1299 },
-  { destination: "Durg", price: 799 },
-  { destination: "Bhilai", price: 899 },
-  { destination: "Raigarh", price: 2499 },
-  { destination: "Korba", price: 2499 }
+  { destination: "Bilaspur", price: 1599 },
+  { destination: "Durg", price: 1199 },
+  { destination: "Bhilai", price: 999 },
+  { destination: "Raigarh", price: 2699 },
+  { destination: "Korba", price: 2699 },
+  { destination: "Nagpur", price: 3999 },
+  { destination: "Dhamtari", price: 1899 },
+  { destination: "Mahasamund", price: 1499 },
+  { destination: "Kawardha", price: 2299 }
 ];
 
 export const STANDARD_ROUTES = [
-  { destination: "Bilaspur", price: 1999 },
-  { destination: "Durg", price: 999 },
-  { destination: "Bhilai", price: 999 },
-  { destination: "Raigarh", price: 3499 },
-  { destination: "Korba", price: 2999 }
+  { destination: "Bilaspur", price: 2199 },
+  { destination: "Durg", price: 1399 },
+  { destination: "Bhilai", price: 1199 },
+  { destination: "Raigarh", price: 3299 },
+  { destination: "Korba", price: 3299 },
+  { destination: "Nagpur", price: 4599 },
+  { destination: "Dhamtari", price: 2499 },
+  { destination: "Mahasamund", price: 2099 },
+  { destination: "Kawardha", price: 2899 }
 ];
 
 export const POPULAR_ROUTES = EV_ROUTES; // keeping this for any other components needing a quick route list
@@ -48,7 +56,7 @@ export const REVIEWS = [
   { id: 1, name: "Rahul Verma", rating: 5, text: "Excellent service! We booked an EV for our trip to Bilaspur. The driver was very professional and the car was spotless." },
   { id: 2, name: "Sneha Patel", rating: 5, text: "Very prompt and reliable. The fare was exactly what was quoted, no hidden charges. Highly recommended!" },
   { id: 3, name: "Amit Sharma", rating: 4, text: "Good experience overall. Comfortable journey from Raipur to Bhilai. Will book again." },
-  { id: 4, name: "Priya Singh", rating: 5, text: "Super clean cab and very polite driver. Reached my destination safely on time. The ₹1299 bilaspur route is a steal." }
+  { id: 4, name: "Priya Singh", rating: 5, text: "Super clean cab and very polite driver. Reached my destination safely on time. The ₹1599 bilaspur route is a steal." }
 ];
 
 export const FAQS = [

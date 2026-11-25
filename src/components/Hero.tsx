@@ -22,10 +22,10 @@ export default function Hero() {
         <div className="flex flex-col md:flex-row items-baseline gap-2 md:gap-6 mt-2 mb-6">
           <span className="text-2xl font-medium text-slate-400 uppercase">ONLY</span>
           <span className="text-7xl md:text-8xl lg:text-[130px] font-black text-blue-800 leading-none tracking-tighter italic">
-            ₹1299/-
+            ₹1599/-
           </span>
           <span className="text-2xl md:text-5xl font-black text-emerald-500 uppercase italic">
-            (EV Cab)
+            (EV CAB)
           </span>
         </div>
 
