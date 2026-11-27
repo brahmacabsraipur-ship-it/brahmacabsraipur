@@ -17,7 +17,7 @@ export const BUSINESS_INFO = {
 };
 
 export const EV_ROUTES = [
-  { destination: "Bilaspur", price: 1599 },
+  { destination: "Bilaspur", price: 1899 },
   { destination: "Durg", price: 1199 },
   { destination: "Bhilai", price: 999 },
   { destination: "Raigarh", price: 2699 },
@@ -56,7 +56,7 @@ export const REVIEWS = [
   { id: 1, name: "Rahul Verma", rating: 5, text: "Excellent service! We booked an EV for our trip to Bilaspur. The driver was very professional and the car was spotless." },
   { id: 2, name: "Sneha Patel", rating: 5, text: "Very prompt and reliable. The fare was exactly what was quoted, no hidden charges. Highly recommended!" },
   { id: 3, name: "Amit Sharma", rating: 4, text: "Good experience overall. Comfortable journey from Raipur to Bhilai. Will book again." },
-  { id: 4, name: "Priya Singh", rating: 5, text: "Super clean cab and very polite driver. Reached my destination safely on time. The ₹1599 bilaspur route is a steal." }
+  { id: 4, name: "Priya Singh", rating: 5, text: "Super clean cab and very polite driver. Reached my destination safely on time. The ₹1899 bilaspur route is a steal." }
 ];
 
 export const FAQS = [
